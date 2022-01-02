@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Programming/C++/I&PD/lab3/batteryInfo.cpp
+batteryInfo.h
+D:/Programming/C++/I&PD/lab3/batteryInfo.h
+
+D:/Programming/C++/I&PD/lab3/batteryInfo.h
+iostream
+-
+Windows.h
+D:/Programming/C++/I&PD/lab3/Windows.h
+BatClass.h
+D:/Programming/C++/I&PD/lab3/BatClass.h
+setupapi.h
+-
+devguid.h
+-
+locale.h
+-
+vector
+-
+atlstr.h
+-
+

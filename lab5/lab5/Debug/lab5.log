@@ -1,0 +1,7 @@
+﻿  Source.cpp
+D:\Programming\C++\I&PD\lab5\lab5\Source.cpp(39,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Programming\C++\I&PD\lab5\lab5\Source.cpp(66,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Programming\C++\I&PD\lab5\lab5\Source.cpp(72,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Programming\C++\I&PD\lab5\lab5\Source.cpp(50): warning C4715: handleToFriendlyName: значение возвращается не при всех путях выполнения
+D:\Programming\C++\I&PD\lab5\lab5\Source.cpp(63): warning C4715: nameToHandle: значение возвращается не при всех путях выполнения
+  lab5.vcxproj -> D:\Programming\C++\I&PD\lab5\Debug\lab5.exe
